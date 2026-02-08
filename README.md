@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi 👋 I'm Ravi Kumar
 
-<!--
-**ravi-kumar-ds/ravi-kumar-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA (Online) student at Amity University  
+📊 Aspiring Data Scientist  
 
-Here are some ideas to get you started:
+💻 Currently Learning:
+- Python
+- SQL
+- Data Analysis
+- Statistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Goals:
+- Build real-world data projects
+- Become a Data Scientist
+
+📫 Connect with me:
+LinkedIn: https://www.linkedin.com/in/ravi-kumar-3032a0334/
